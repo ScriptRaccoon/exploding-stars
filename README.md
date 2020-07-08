@@ -2,6 +2,8 @@
 
 This is a browser animation in which stars 'explode' when they collide and thereby generate new stars.
 
+Live demo: https://w1psc.csb.app/
+
 ![Screenshot](screenshot.png)
 
 New stars are yellow and slowly turn red, in which case they are ready to collide. After that they slowly fade away and finally disappear unless they explode before.
