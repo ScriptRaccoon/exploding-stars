@@ -2,7 +2,7 @@
 
 This is a browser animation in which stars 'explode' when they collide and thereby generate new stars.
 
-Live demo: https://w1psc.csb.app/
+https://exploding-stars.netlify.app/
 
 ![Screenshot](screenshot.png)
 
